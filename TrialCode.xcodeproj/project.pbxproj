@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		0E72E6222D919316006F0F1B /* LearnCOde.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearnCOde.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0E72E6222D919316006F0F1B /* chch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = chch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		0E72E6242D919316006F0F1B /* LearnCOde */ = {
+		0E72E6242D919316006F0F1B /* chch */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = LearnCOde;
+			path = chch;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		0E72E6192D919316006F0F1B = {
 			isa = PBXGroup;
 			children = (
-				0E72E6242D919316006F0F1B /* LearnCOde */,
+				0E72E6242D919316006F0F1B /* chch */,
 				0E72E6232D919316006F0F1B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		0E72E6232D919316006F0F1B /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0E72E6222D919316006F0F1B /* LearnCOde.app */,
+				0E72E6222D919316006F0F1B /* chch.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0E72E6212D919316006F0F1B /* LearnCOde */ = {
+		0E72E6212D919316006F0F1B /* chch */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0E72E6302D919317006F0F1B /* Build configuration list for PBXNativeTarget "LearnCOde" */;
+			buildConfigurationList = 0E72E6302D919317006F0F1B /* Build configuration list for PBXNativeTarget "chch" */;
 			buildPhases = (
 				0E72E61E2D919316006F0F1B /* Sources */,
 				0E72E61F2D919316006F0F1B /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				0E72E6242D919316006F0F1B /* LearnCOde */,
+				0E72E6242D919316006F0F1B /* chch */,
 			);
-			name = LearnCOde;
+			name = chch;
 			packageProductDependencies = (
 			);
 			productName = LearnCOde;
-			productReference = 0E72E6222D919316006F0F1B /* LearnCOde.app */;
+			productReference = 0E72E6222D919316006F0F1B /* chch.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0E72E61D2D919316006F0F1B /* Build configuration list for PBXProject "LearnCOde" */;
+			buildConfigurationList = 0E72E61D2D919316006F0F1B /* Build configuration list for PBXProject "chch" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0E72E6212D919316006F0F1B /* LearnCOde */,
+				0E72E6212D919316006F0F1B /* chch */,
 			);
 		};
 /* End PBXProject section */
@@ -182,6 +182,7 @@
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = chch;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -238,6 +239,7 @@
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				PRODUCT_NAME = chch;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				VALIDATE_PRODUCT = YES;
@@ -251,7 +253,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"LearnCOde/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"chch/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -264,7 +266,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Newbie.LearnCOde;
+				PRODUCT_BUNDLE_IDENTIFIER = Newbie.chch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -279,7 +281,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"LearnCOde/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"chch/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -292,7 +294,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = Newbie.LearnCOde;
+				PRODUCT_BUNDLE_IDENTIFIER = Newbie.chch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -303,7 +305,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0E72E61D2D919316006F0F1B /* Build configuration list for PBXProject "LearnCOde" */ = {
+		0E72E61D2D919316006F0F1B /* Build configuration list for PBXProject "chch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0E72E62E2D919317006F0F1B /* Debug */,
@@ -312,7 +314,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0E72E6302D919317006F0F1B /* Build configuration list for PBXNativeTarget "LearnCOde" */ = {
+		0E72E6302D919317006F0F1B /* Build configuration list for PBXNativeTarget "chch" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0E72E6312D919317006F0F1B /* Debug */,
